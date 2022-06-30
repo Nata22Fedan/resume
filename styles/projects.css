@@ -1,0 +1,27 @@
+.project-image1 ,
+.project-image2 
+{
+    width: 570px;
+    height:340px;
+    
+    
+
+   
+    padding-top: 0px;
+    border:2px solid black;
+    
+    
+   
+
+}
+
+figure{
+    display:block;
+    text-align: center;
+    
+    float: right;
+    font-size: 27px;
+    
+
+
+}
